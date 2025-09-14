@@ -1,0 +1,4 @@
+cmake .. \
+  -DCMAKE_BUILD_TYPE=Release \
+  -DVCG_ROOT=/Volumes/TwoEightEighteen/Projects (active 2)/Pending/K C Spokbee/env model idea/apps/vcglib \
+  -DOpenCV_DIR=/opt/homebrew/lib/cmake/opencv4
